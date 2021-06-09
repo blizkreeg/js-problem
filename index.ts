@@ -1,4 +1,4 @@
-# Please explain what is wrong or missing with the typescript code below and how will you fix it.
+// Please explain what is wrong or missing with the typescript code below and how will you fix it.
 
 const func1 = () : => {
   try {
