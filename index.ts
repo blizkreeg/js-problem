@@ -1,4 +1,5 @@
-// Please explain what is wrong or missing with the typescript code below and how will you fix it.
+// OBJECTIVE: Please explain what is wrong or missing with the typescript code below and how will you fix it
+// Email answer to vineet@versiononelabs.com
 
 const func1 = () : => {
   try {
